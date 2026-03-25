@@ -1,9 +1,7 @@
 # Wordle
 Just a little project to see if I can apply what I learn everyday in class.
 
-This is the wordle game (motus in french), in terminal. I plan to try to create the game with pygame soon. Feel free to use the code.
-
-The language here is Python, the Tcl used is for the executable.
+This is the wordle game (motus in french), in terminal.
 
 ## Setup and Run
 
@@ -19,18 +17,6 @@ To run it in a terminal:
 
     python main.py
 
-
-If you don't have python or have troubles to install it but you want to try it anyway, I made a executable. You'll find it at build/wordle : wordle.exe.
-To access it in terminal:
-
-**Linux**
-
-    build/wordle/wordle.exe
-
-**Windows**
-
-    build\wordle\wordle.exe
-
 If you want to do it by yourself, install the package cx_Freeze:
 
     python pip install cx_Freeze
@@ -42,7 +28,6 @@ execute it with the following command:
 
 
 ## Credits
-Created by Ribou ([Twitter](https://ribou.fr/twitter), [Twitch](https://ribou.fr/twitch))
 
 I got the data from [David Louapre](github.com/scienceetonnante) in his [WordleSutom project](github.com/scienceetonnante/WordleSutom), as I couldn't find any other list of words on the internet.
 
